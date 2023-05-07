@@ -1,0 +1,16 @@
+torch==1.12.1
+torchvision==0.13.1
+segmentation_models_pytorch==0.2.1
+numpy
+tqdm
+tensorboard
+tensorboardX
+ml-collections
+medpy
+SimpleITK
+scipy
+h5py
+einops
+timm
+
+
